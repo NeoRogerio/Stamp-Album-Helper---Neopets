@@ -1134,8 +1134,8 @@ const STAMP_LIST = {
             { position: 19, name: "Powtry Stamp", img: "sta_powtry.gif", rarity: "r101" },
             { position: 20, name: "No Stamp", img: "", rarity: "" },
             { position: 21, name: "Kari and Topsi Stamp", img: "sta_kari_topsi.gif", rarity: "r101" },
-            { position: 22, name: "No Stamp", img: "", rarity: "" },
-            { position: 23, name: "No Stamp", img: "", rarity: "" },
+            { position: 22, name: "Christmas Bruce Stamp", img: "sta_christmas_bruce.gif", rarity: "r101" },
+            { position: 23, name: "Holiday King Altador Stamp", img: "sta_holiday_altador.gif", rarity: "r101" },
             { position: 24, name: "No Stamp", img: "", rarity: "" },
             { position: 25, name: "No Stamp", img: "", rarity: "" }
         ]
