@@ -1257,7 +1257,7 @@ const STAMP_LIST = {
             { position: 22, name: "Valentine Stamp", img: "stamp_valentine.gif", rarity: "r101" },
             { position: 23, name: "No Stamp", img: "", rarity: "" },
             { position: 24, name: "No Stamp", img: "", rarity: "" },
-            { position: 25, name: "No Stamp", img: "", rarity: "" }
+            { position: 25, name: "AC XIX Commemorative Stamp", img: "stamp_acxix_comm.gif", rarity: "r101" }
         ]
     },
     "42": {
