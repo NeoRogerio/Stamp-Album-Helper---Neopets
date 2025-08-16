@@ -969,7 +969,7 @@ const STAMP_LIST = {
             { position: 4, name: "Haunted Lost Desert Amulet", img: "coi_gc_amuletold.gif", rarity: "r101" },
             { position: 5, name: "Haunted Shenkuu Amulet", img: "coi_gc_amuletsh.gif", rarity: "r101" },
             { position: 6, name: "Haunted Altador Amulet", img: "coi_gc_amuletalt.gif", rarity: "r101" },
-            { position: 7, name: "No Stamp", img: "", rarity: "" },
+            { position: 7, name: "Master of the Tower Stamp", img: "cf8df6792l.gif", rarity: "r101" },
             { position: 8, name: "Haunted Faerieland Amulet", img: "coi_gc_amuletofaerie.gif", rarity: "r101" },
             { position: 9, name: "No Stamp", img: "", rarity: "" },
             { position: 10, name: "No Stamp", img: "", rarity: "" },
