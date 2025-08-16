@@ -5,8 +5,8 @@
 // @description  Adds an info menu about your missing stamps
 // @author       EatWooloos
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
-// @downloadURL https://update.greasyfork.org/scripts/421034/Stamp%20album%20helper.user.js
-// @updateURL https://update.greasyfork.org/scripts/421034/Stamp%20album%20helper.meta.js
+// @downloadURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/main/stamp-album-helper-neorogerio.user.js
+// @updateURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/main/stamp-album-helper-neorogerio.user.js
 // ==/UserScript==
 
 const hasPremium = !!$("#sswmenu .imgmenu").length;
