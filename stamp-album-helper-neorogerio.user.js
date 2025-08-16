@@ -886,7 +886,7 @@ const STAMP_LIST = {
             { position: 11, name: "Smugglers Cove Stamp", img: "sta_smugglers_cove.gif", rarity: "r86" },
             { position: 12, name: "Feldon Dinksy Collibridge Stamp", img: "stamp_feldon_dinksy.gif", rarity: "r84" },
             { position: 13, name: "Fred the Tuskaninny Sailor Stamp", img: "sta_tuskaninny_sailor.gif", rarity: "r87" },
-            { position: 14, name: "No Stamp", img: "", rarity: "" },
+            { position: 14, name: "Benny the Blade Stamp", img: "stamp_benny_the_blade.gif", rarity: "r86" },
             { position: 15, name: "Dubloon-O-Matic Stamp", img: "stamp_dubloon_o_matic.gif", rarity: "r89" },
             { position: 16, name: "Barf Boat Stamp", img: "sta_ddy21_barf_boat_stamp.gif", rarity: "r101" },
             { position: 17, name: "Dorak Stamp", img: "sta_dorak.gif", rarity: "r91" },
