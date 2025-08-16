@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Stamp album helper
 // @namespace    neopets
-// @version      2022.07.16
+// @version      2025.08.16
 // @description  Adds an info menu about your missing stamps
-// @author       EatWooloos
+// @author       neoRogério
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
 // @downloadURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/main/stamp-album-helper-neorogerio.user.js
 // @updateURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/main/stamp-album-helper-neorogerio.user.js
