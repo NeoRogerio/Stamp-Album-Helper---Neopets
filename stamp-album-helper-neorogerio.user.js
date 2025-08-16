@@ -796,7 +796,7 @@ const STAMP_LIST = {
             { position: 11, name: "Maraquan Kau Maractite Coin", img: "coi_maraquan_kau.gif", rarity: "r85" },
             { position: 12, name: "Runed Maractite Coin", img: "coi_maractite_runed.gif", rarity: "r86" },
             { position: 13, name: "No Stamp", img: "", rarity: "" },
-            { position: 14, name: "No Stamp", img: "", rarity: "" },
+            { position: 14, name: "Rusty Sloth Clone Maractite Coin", img: "sea_rusty_clone_maractite_coin.gif", rarity: "r82" },
             { position: 15, name: "No Stamp", img: "", rarity: "" },
             { position: 16, name: "No Stamp", img: "", rarity: "" },
             { position: 17, name: "No Stamp", img: "", rarity: "" },
