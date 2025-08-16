@@ -1355,7 +1355,7 @@ const STAMP_LIST = {
         "list": [
             { position: 1, name: "Nostalgic Grey Draik Stamp", img: "stamp_grey_draik.gif", rarity: "r101" },
             { position: 2, name: "Grey Kari Charm", img: "fon_greykari_charm.gif", rarity: "r101" },
-            { position: 3, name: "No Stamp", img: "", rarity: "" },
+            { position: 3, name: "Grey Tsunami Coin", img: "8ic7c8374m.gif", rarity: "r101" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
@@ -1373,7 +1373,7 @@ const STAMP_LIST = {
             { position: 18, name: "No Stamp", img: "", rarity: "" },
             { position: 19, name: "No Stamp", img: "", rarity: "" },
             { position: 20, name: "No Stamp", img: "", rarity: "" },
-            { position: 21, name: "No Stamp", img: "", rarity: "" },
+            { position: 21, name: "Terrible Two Stamp", img: "30nia3mf0d.gif", rarity: "r101" },
             { position: 22, name: "No Stamp", img: "", rarity: "" },
             { position: 23, name: "No Stamp", img: "", rarity: "" },
             { position: 24, name: "No Stamp", img: "", rarity: "" },
