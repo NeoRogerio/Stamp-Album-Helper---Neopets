@@ -33,31 +33,31 @@ const STAMP_LIST = {
     "1": {
         "album": "Mystery Island",
         "list": [
-            { position: 1, name: "Mystery Island Kougra Stamp", img: "stamp_mys_kou.gif", rarity: "r20" },
-            { position: 2, name: "Mystery Island Aishas Stamp", img: "stamp_mys_ais.gif", rarity: "r180" },
-            { position: 3, name: "Coco Stamp", img: "stamp_mys_coc.gif", rarity: "r80" },
-            { position: 4, name: "Jhuidah Stamp", img: "stamp_jhuidah1.gif", rarity: "r76" },
-            { position: 5, name: "Island Native Stamp", img: "stamp_mys_nat.gif", rarity: "r74" },
-            { position: 6, name: "Mystery Island Hut Stamp", img: "stamp_mys_mys.gif", rarity: "r64" },
-            { position: 7, name: "Assorted Fruits Stamp", img: "stamp_mys_fru.gif", rarity: "r62" },
-            { position: 8, name: "Triangular Flotsam Stamp", img: "stamp_island_flotsam.gif", rarity: "r60" },
-            { position: 9, name: "Zeenana Stamp", img: "stamp_island_fruit.gif", rarity: "r61" },
-            { position: 10, name: "Mystery Island Grarrl Stamp", img: "stamp_island_grarrl.gif", rarity: "r101" },
-            { position: 11, name: "Island Acara Stamp", img: "stamp_island_acara.gif", rarity: "r180" },
-            { position: 12, name: "Haiku Stamp", img: "stamp_island_haiku.gif", rarity: "r75" },
-            { position: 13, name: "Mystery Island Heads Stamp", img: "stamp_island_heads.gif", rarity: "r71" },
-            { position: 14, name: "Bottle of Sand Stamp", img: "stamp_island_sand.gif", rarity: "r101" },
-            { position: 15, name: "Island Uni Stamp", img: "stamp_island_uni.gif", rarity: "r101" },
-            { position: 16, name: "Mystery Island Chef Stamp", img: "stamp_island_chef.gif", rarity: "r101" },
-            { position: 17, name: "Tombola Stamp", img: "stamp_island_tombola.gif", rarity: "r101" },
-            { position: 18, name: "Mystery Island Kiko Stamp", img: "stamp_island_kiko.gif", rarity: "r101" },
-            { position: 19, name: "Island Mystic Stamp", img: "stamp_mys_mystic.gif", rarity: "r70" },
-            { position: 20, name: "Ryshu Stamp", img: "stamp_mys_ryshu.gif", rarity: "r70" },
-            { position: 21, name: "Need a Better Printer Stamp", img: "stamp_misprint1.gif", rarity: "r99" },
-            { position: 22, name: "Upside Down Island Acara Stamp", img: "stamp_misprint2.gif", rarity: "r99" },
-            { position: 23, name: "One Hundred Million Neopoint Stamp", img: "stamp_misprint3.gif", rarity: "r99" },
-            { position: 24, name: "Misaligned Printer Stamp", img: "stamp_misprint4.gif", rarity: "r99" },
-            { position: 25, name: "Nibbled Cooking Pot Stamp", img: "stamp_mys_pongo.gif", rarity: "r99" }
+            { position: 1, name: "Mystery Island Kougra Stamp", img: "stamp_mys_kou.gif", rarity: "r20", item_id: "18923" },
+            { position: 2, name: "Mystery Island Aishas Stamp", img: "stamp_mys_ais.gif", rarity: "r180", item_id: "18924" },
+            { position: 3, name: "Coco Stamp", img: "stamp_mys_coc.gif", rarity: "r80", item_id: "18925" },
+            { position: 4, name: "Jhuidah Stamp", img: "stamp_jhuidah1.gif", rarity: "r76", item_id: "18926" },
+            { position: 5, name: "Island Native Stamp", img: "stamp_mys_nat.gif", rarity: "r74", item_id: "18927" },
+            { position: 6, name: "Mystery Island Hut Stamp", img: "stamp_mys_mys.gif", rarity: "r64", item_id: "18928" },
+            { position: 7, name: "Assorted Fruits Stamp", img: "stamp_mys_fru.gif", rarity: "r62", item_id: "18929" },
+            { position: 8, name: "Triangular Flotsam Stamp", img: "stamp_island_flotsam.gif", rarity: "r60", item_id: "18930" },
+            { position: 9, name: "Zeenana Stamp", img: "stamp_island_fruit.gif", rarity: "r61", item_id: "18931" },
+            { position: 10, name: "Mystery Island Grarrl Stamp", img: "stamp_island_grarrl.gif", rarity: "r101", item_id: "18932" },
+            { position: 11, name: "Island Acara Stamp", img: "stamp_island_acara.gif", rarity: "r180", item_id: "18933" },
+            { position: 12, name: "Haiku Stamp", img: "stamp_island_haiku.gif", rarity: "r75", item_id: "18934" },
+            { position: 13, name: "Mystery Island Heads Stamp", img: "stamp_island_heads.gif", rarity: "r71", item_id: "18935" },
+            { position: 14, name: "Bottle of Sand Stamp", img: "stamp_island_sand.gif", rarity: "r101", item_id: "18936" },
+            { position: 15, name: "Island Uni Stamp", img: "stamp_island_uni.gif", rarity: "r101", item_id: "18937" },
+            { position: 16, name: "Mystery Island Chef Stamp", img: "stamp_island_chef.gif", rarity: "r101", item_id: "18938" },
+            { position: 17, name: "Tombola Stamp", img: "stamp_island_tombola.gif", rarity: "r101", item_id: "18939" },
+            { position: 18, name: "Mystery Island Kiko Stamp", img: "stamp_island_kiko.gif", rarity: "r101", item_id: "18940" },
+            { position: 19, name: "Island Mystic Stamp", img: "stamp_mys_mystic.gif", rarity: "r70", item_id: "18941" },
+            { position: 20, name: "Ryshu Stamp", img: "stamp_mys_ryshu.gif", rarity: "r70", item_id: "18942" },
+            { position: 21, name: "Need a Better Printer Stamp", img: "stamp_misprint1.gif", rarity: "r99", item_id: "18943" },
+            { position: 22, name: "Upside Down Island Acara Stamp", img: "stamp_misprint2.gif", rarity: "r99", item_id: "18944" },
+            { position: 23, name: "One Hundred Million Neopoint Stamp", img: "stamp_misprint3.gif", rarity: "r99", item_id: "18945" },
+            { position: 24, name: "Misaligned Printer Stamp", img: "stamp_misprint4.gif", rarity: "r99", item_id: "18946" },
+            { position: 25, name: "Nibbled Cooking Pot Stamp", img: "stamp_mys_pongo.gif", rarity: "r99", item_id: "18947" }
         ]
     },
     "2": {
@@ -1472,6 +1472,36 @@ const STAMP_LIST = {
     }
 };
 
+async function fetchPriceData(){
+  const trs = STAMP_LIST;
+
+  const IDs = [];
+
+  trs.each(function (i) {
+    const itemId = trs[i].item_id;
+    IDs.push(itemId);
+  });
+
+  GM_xmlhttpRequest({
+    method: 'POST',
+    url: 'https://itemdb.com.br/api/v1/items/many',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    data: JSON.stringify({
+      item_id: IDs
+    }),
+    onload: function (res) {
+      if (res.status === 200) {
+        const itemData = JSON.parse(res.responseText);
+        pricePage(itemData);
+      }
+
+      else return console.error('[itemdb] Failed to fetch price data', res);
+    }
+  });
+}
+
 // Get the data for this album page
 const albumID = location.search.match(/page_id=(\d+)&*/)[1];
 const thisPage = STAMP_LIST[albumID];
@@ -1518,7 +1548,7 @@ $("body").append(`
 let infoContent = {};
 $(".content table img").each(function (index, element) {
 
-    const { position, name, img, rarity } = thisPage["list"][index];
+    const { position, name, img, rarity, item_id } = thisPage["list"][index];
 
     $(element).attr("position", position).attr("rarity", rarity);
 
@@ -1528,7 +1558,8 @@ $(".content table img").each(function (index, element) {
             .attr("title", name)
             .attr("src", `http://images.neopets.com/items/${img}`)
             .attr("alt", name)
-            .attr("rarity", rarity);
+            .attr("rarity", rarity)
+            .attr("item_id", item_id);
     }
 
     infoContent[position] = createInfoContent(element);
@@ -1548,6 +1579,11 @@ $(".content table img").each(function (index, element) {
 });
 
 function createInfoContent(imgElement) {
+
+
+    const item = itemData[itemId];
+
+    priceStr = `<a href="https://itemdb.com.br/item/${item.slug}?utm_content=sdbPricer" target="_blank">${item.price.inflated ? "⚠ " : ""}${intl.format(item.price.value)} NP</a>`;
 
     const $img = $(imgElement),
         src = $img.attr("src"),
@@ -1657,6 +1693,9 @@ function createInfoContent(imgElement) {
     </tr>
     <tr>
         <td>${hasStampText}</td>
+    </tr>
+    <tr>
+        <td>Item ID: ${priceStr}</td>
     </tr>
     <tr>
         <td style="text-align: center; padding: 16px 6px;">${createHelper(stampName)}</td>
