@@ -769,7 +769,7 @@ const STAMP_LIST = {
             { position: 14, name: "No Stamp", img: "", rarity: "" },
             { position: 15, name: "No Stamp", img: "", rarity: "" },
             { position: 16, name: "Cogs Togs Stamp", img: "sta_cogs_togs.gif", rarity: "r90" },
-            { position: 17, name: "No Stamp", img: "", rarity: "" },
+            { position: 17, name: "Petpetorium Stamp", img: "st_petpetorium.gif", rarity: "r88" },
             { position: 18, name: "Tangor Stamp", img: "sta_tangor.gif", rarity: "r92" },
             { position: 19, name: "Moltara Town Hall Stamp", img: "sta_moltara_townhall.gif", rarity: "r93" },
             { position: 20, name: "Abandoned Water Tower Stamp", img: "sta_reu2014_abanwattowstaalb.gif", rarity: "r101" },
