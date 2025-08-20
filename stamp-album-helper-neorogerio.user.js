@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper
 // @namespace    neopets
-// @version      2025.08.16
+// @version      2025.08.19
 // @description  Adds an info menu about your missing stamps
 // @author       neoRogério
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -1356,7 +1356,7 @@ const STAMP_LIST = {
             { position: 1, name: "Nostalgic Grey Draik Stamp", img: "stamp_grey_draik.gif", rarity: "r101" },
             { position: 2, name: "Grey Kari Charm", img: "fon_greykari_charm.gif", rarity: "r101" },
             { position: 3, name: "Grey Tsunami Coin", img: "8ic7c8374m.gif", rarity: "r101" },
-            { position: 4, name: "No Stamp", img: "", rarity: "" },
+            { position: 4, name: "Sera Nero Stamp", img: "st_sera_nero.gif", rarity: "r101" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
             { position: 7, name: "No Stamp", img: "", rarity: "" },
