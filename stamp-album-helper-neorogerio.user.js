@@ -1294,7 +1294,7 @@ const STAMP_LIST = {
         "album": "Virtupets II",
         "list": [
             { position: 1, name: "Stamp of Neopia", img: "stamp_neopia.gif", rarity: "r101" },
-            { position: 2, name: "No Stamp", img: "", rarity: "" },
+            { position: 2, name: "Gruntharxx Stamp", img: "st_gruntharxx.gif", rarity: "r88" },
             { position: 3, name: "No Stamp", img: "", rarity: "" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
