@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Stamp album helper
 // @namespace    neopets
-// @version      2025.08.16
+// @version      2025.08.29
 // @description  Adds an info menu about your missing stamps
 // @author       neoRogério
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
-// @downloadURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/main/stamp-album-helper-neorogerio.user.js
-// @updateURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/main/stamp-album-helper-neorogerio.user.js
+// @downloadURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/Normal/stamp-album-helper-neorogerio.user.js
+// @updateURL https://github.com/NeoRogerio/Stamp-Album-Helper---Neopets/raw/refs/heads/Normal/stamp-album-helper-neorogerio.user.js
 // ==/UserScript==
 
 const hasPremium = !!$("#sswmenu .imgmenu").length;
@@ -1034,7 +1034,7 @@ const STAMP_LIST = {
             { position: 9, name: "Brown Striped Murex Shell", img: "she_brown_murex_shell.gif", rarity: "r89" },
             { position: 10, name: "No Stamp", img: "", rarity: "" },
             { position: 11, name: "No Stamp", img: "", rarity: "" },
-            { position: 12, name: "No Stamp", img: "", rarity: "" },
+            { position: 12, name: "Maractite Seashell", img: "ak2igfcnm3.gif", rarity: "r101" },
             { position: 13, name: "Charybdis Seashell", img: "she_charybdis_seashell.gif", rarity: "r101" },
             { position: 14, name: "So Blue Shell", img: "she_so_blue.gif", rarity: "r85" },
             { position: 15, name: "No Stamp", img: "", rarity: "" },
@@ -1294,7 +1294,7 @@ const STAMP_LIST = {
         "album": "Virtupets II",
         "list": [
             { position: 1, name: "Stamp of Neopia", img: "stamp_neopia.gif", rarity: "r101" },
-            { position: 2, name: "No Stamp", img: "", rarity: "" },
+            { position: 2, name: "Gruntharxx Stamp", img: "st_gruntharxx.gif", rarity: "r88" },
             { position: 3, name: "No Stamp", img: "", rarity: "" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
@@ -1356,7 +1356,7 @@ const STAMP_LIST = {
             { position: 1, name: "Nostalgic Grey Draik Stamp", img: "stamp_grey_draik.gif", rarity: "r101" },
             { position: 2, name: "Grey Kari Charm", img: "fon_greykari_charm.gif", rarity: "r101" },
             { position: 3, name: "Grey Tsunami Coin", img: "8ic7c8374m.gif", rarity: "r101" },
-            { position: 4, name: "No Stamp", img: "", rarity: "" },
+            { position: 4, name: "Sera Nero Stamp", img: "st_sera_nero.gif", rarity: "r101" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
             { position: 7, name: "No Stamp", img: "", rarity: "" },
@@ -1445,7 +1445,7 @@ const STAMP_LIST = {
         "list": [
             { position: 1, name: "Barely Legible Business Card", img: "gif_wraith_business_card.gif", rarity: "r101" },
             { position: 2, name: "Scored Stone Business Card",img: "gif_scordrax_business_card.gif", rarity: "r101" },
-            { position: 3, name: "No Stamp", img: "", rarity: "" },
+            { position: 3, name: "Monstrous Business Card", img: "7762f5ggj6.gif", rarity: "r101" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
