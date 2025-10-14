@@ -1327,7 +1327,7 @@ const STAMP_LIST = {
             { position: 2, name: "Luxinia Stamp", img: "d3cf0h2ki5.gif", rarity: "r101" },
             { position: 3, name: "Big Bang Varia Stamp", img: "o91c7a532.gif", rarity: "r101" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
-            { position: 5, name: "No Stamp", img: "", rarity: "" },
+            { position: 5, name: "Fire Faerie Slingshot Stamp", img: "n3d82f14c.gif", rarity: "r101" },
             { position: 6, name: "Jhudora Stamp", img: "stamp_jhudora.gif", rarity: "r88" },
             { position: 7, name: "No Stamp", img: "", rarity: "" },
             { position: 8, name: "No Stamp", img: "", rarity: "" },
