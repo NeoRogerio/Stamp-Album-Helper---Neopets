@@ -917,7 +917,7 @@ const STAMP_LIST = {
             { position: 12, name: "The Crumpetmonger Shop Stamp", img: "sta_y20haltot_neovianshop.gif", rarity: "r101" },
             { position: 13, name: "Spirit of Slumber Stamp", img: "sta_spirit_slumber.gif", rarity: "r87" },
             { position: 14, name: "Teatime in Neovia Stamp", img: "fon_sta_teatime_in_neovia.gif", rarity: "r101" },
-            { position: 15, name: "No Stamp", img: "", rarity: "" },
+            { position: 15, name: "Oscar Stamp", img: "st_oscar.gif", rarity: "r87" },
             { position: 16, name: "Sentient Headstones Stamp", img: "sta_headstone_sentient.gif", rarity: "r90" },
             { position: 17, name: "RIP Lucy Stamp", img: "sta_rip_lucy.gif", rarity: "r91" },
             { position: 18, name: "No Stamp", img: "", rarity: "" },
