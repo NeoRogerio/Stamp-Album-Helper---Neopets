@@ -1063,7 +1063,7 @@ const STAMP_LIST = {
             { position: 8, name: "25th Anniversary Faellie Stamp", img: "9i6j5bal2h.gif", rarity: "r101" },
             { position: 9, name: "Second Hand Stamp", img: "st_secondhand.gif", rarity: "r88" },
             { position: 10, name: "25th Anniversary Acara Stamp", img: "h1l5h55jil.gif", rarity: "r101" },
-            { position: 11, name: "No Stamp", img: "", rarity: "" },
+            { position: 11, name: "Red Shoyru Stamp", img: "stamp_neo_shoyru.gif", rarity: "r88" },
             { position: 12, name: "25th Anniversary Shoyru Stamp", img: "stamp_25thanni_shoyru.gif", rarity: "r101" },
             { position: 13, name: "Neggnapper Stamp", img: "stamp_neggnapper.gif", rarity: "r101" },
             { position: 14, name: "No Stamp", img: "", rarity: "" },
