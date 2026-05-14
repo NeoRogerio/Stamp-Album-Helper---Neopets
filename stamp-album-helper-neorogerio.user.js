@@ -1256,7 +1256,7 @@ const STAMP_LIST = {
             { position: 21, name: "25th Anniversary Celebration Stamp", img: "44f4ea2977.gif", rarity: "r200" },
             { position: 22, name: "Valentine Stamp", img: "stamp_valentine.gif", rarity: "r101" },
             { position: 23, name: "No Stamp", img: "", rarity: "" },
-            { position: 24, name: "No Stamp", img: "", rarity: "" },
+            { position: 24, name: "Void Tendril Stamp", img: "7k7kk5ii6n.gif", rarity: "r101" },
             { position: 25, name: "AC XIX Commemorative Stamp", img: "stamp_acxix_comm.gif", rarity: "r101" }
         ]
     },
@@ -1419,7 +1419,7 @@ const STAMP_LIST = {
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "Colouring Book Stamp", img: "08f9a4nmk3.gif", rarity: "r101" },
             { position: 6, name: "No Malevolent Being Stamp", img: "st_being_malevolent.gif", rarity: "r101" },
-            { position: 7, name: "Cheerleader Usuki Stamp", img: "stamp_neopia_usukicheer.gif", rarity: "r101" },   
+            { position: 7, name: "Cheerleader Usuki Stamp", img: "stamp_neopia_usukicheer.gif", rarity: "r101" },
             { position: 8, name: "Magical Kayla Stamp", img: "stamp_destruct_zafara.gif", rarity: "r101" },
             { position: 9, name: "Cherry Blossom Ixi Stamp", img: "stamp_destruct_ixi.gif", rarity: "r101" },
             { position: 10, name: "Council of Leaders Stamp", img: "stamp_councilleaders.gif", rarity: "r101" },
@@ -1444,7 +1444,7 @@ const STAMP_LIST = {
         "album": "Business Cards",
         "list": [
             { position: 1, name: "Barely Legible Business Card", img: "gif_wraith_business_card.gif", rarity: "r101" },
-            { position: 2, name: "Scored Stone Business Card",img: "gif_scordrax_business_card.gif", rarity: "r101" },
+            { position: 2, name: "Scored Stone Business Card", img: "gif_scordrax_business_card.gif", rarity: "r101" },
             { position: 3, name: "Monstrous Business Card", img: "7762f5ggj6.gif", rarity: "r101" },
             { position: 4, name: "Knightly Business Card", img: "gif_jeran_business_card.gif", rarity: "r101" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
